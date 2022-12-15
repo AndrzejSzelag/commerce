@@ -16,5 +16,4 @@ YouTube https://youtu.be/U57J0R6fpMk
 ### Requirements
 
 * Python 3.11.1
-* pip
 * Django 4.1.4
