@@ -7,11 +7,11 @@ comment on those listings, and add listings to a “watchlist.”
 
 ### Specification
 
-Check https://cs50.harvard.edu/web/2020/projects/2/commerce/
+Visit https://cs50.harvard.edu/web/2020/projects/2/commerce/
 
 ### Video
 
-YouTube https://youtu.be/U57J0R6fpMk
+Visit https://youtu.be/U57J0R6fpMk
 
 ### Requirements
 
