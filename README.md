@@ -11,7 +11,7 @@ comment on those listings, and add listings to a “watchlist.”
 
 ### Video
 
-🚀 https://youtu.be/U57J0R6fpMk
+🚀 [VIDEO: Commerce application](https://youtu.be/U57J0R6fpMk)
 
 ### Requirements
 
