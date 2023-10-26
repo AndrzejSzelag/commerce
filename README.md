@@ -7,7 +7,7 @@ comment on those listings, and add listings to a “watchlist.”
 
 ![pic1.java](pic1.png "AUCTIONS - Create Listing")
 
-![pic2.java](pic1.png "AUCTIONS - Listing")
+![pic2.java](pic2.png "AUCTIONS - Listing")
 
 ### Specification
 
