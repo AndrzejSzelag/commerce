@@ -9,6 +9,8 @@ comment on those listings, and add listings to a “watchlist.”
 
 ![pic2.java](pic2.png "AUCTIONS - Listing")
 
+![pic3.java](pic3.png "AUCTIONS - Congratulations")
+
 ### Specification
 
 🚀 https://cs50.harvard.edu/web/2020/projects/2/commerce/
