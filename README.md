@@ -5,6 +5,8 @@
 ✒️ Design an eBay-like e-commerce auction site that will allow users to post auction listings, place bids on listings,
 comment on those listings, and add listings to a “watchlist.”
 
+![pic0.java](pic0.png "AUCTIONS - Register")
+
 ![pic1.java](pic1.png "AUCTIONS - Create Listing")
 
 ![pic2.java](pic2.png "AUCTIONS - Listing")
