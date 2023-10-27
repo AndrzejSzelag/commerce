@@ -25,6 +25,7 @@ comment on those listings, and add listings to a “watchlist.”
 
 * Python 3.11.1
 * Django 4.1.4
+
 __TIP__ If you have a _requirements.txt_ file type this command: __python -m pip install -r requirements.txt__
 
 ### How to run? 
